@@ -6,7 +6,19 @@
 
 注：正式版和LTS版本**不可混用**！！！
 
-* 官方安装命令：(9.0.0公测版)
+* 官方安装命令：(9.0.0公测版)[默认线路]
 ```
 url=https://download.bt.cn/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh ltsview ed8484bec
+```
+* 官方安装命令：(9.0.0公测版)[电信线路]
+```
+url=https://cmcc1-node.bt.cn/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh ltsview ed8484bec
+```
+* 官方安装命令：(9.0.0公测版)[香港线路]
+```
+url=https://hk1-node.bt.cn/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh ltsview ed8484bec
+```
+* 官方安装命令：(9.0.0公测版)[欧美线路]
+```
+url=https://cf1-node.aapanel.com/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh ltsview ed8484bec
 ```
