@@ -6,6 +6,7 @@
 
 注：正式版和LTS版本**不可混用**！！！
 
+<!--
 * 官方安装命令：(9.0.0公测版)[默认线路]
 ```
 url=https://download.bt.cn/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh ltsview ed8484bec
@@ -21,4 +22,21 @@ url=https://hk1-node.bt.cn/install/install_lts.sh;if [ -f /usr/bin/curl ];then c
 * 官方安装命令：(9.0.0公测版)[欧美线路]
 ```
 url=https://cf1-node.aapanel.com/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh ltsview ed8484bec
+```
+-->
+* 官方安装命令：(9.0.0-LTS预览版)[万能安装脚本]
+```
+url=https://download.bt.cn/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh ed8484bec
+```
+* 官方安装命令：(9.0.0-LTS预览版)[Debian安装脚本]
+```
+wget -O install.sh https://download.bt.cn/install/install_lts.sh && bash install.sh ed8484bec
+```
+* 官方安装命令：(9.0.0-LTS预览版)[Ubuntu/Deepin安装脚本]
+```
+wget -O install.sh https://download.bt.cn/install/install_lts.sh && sudo bash install.sh ed8484bec
+```
+* 官方安装命令：(9.0.0-LTS预览版)[CentOS/OpenCloud/AlibabaCloud]
+```
+yum install -y wget && wget -O install.sh https://download.bt.cn/install/install_lts.sh && bash install.sh ed8484bec
 ```
