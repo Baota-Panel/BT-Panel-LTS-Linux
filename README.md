@@ -36,7 +36,7 @@ wget -O install.sh https://download.bt.cn/install/install_lts.sh && bash install
 ```
 wget -O install.sh https://download.bt.cn/install/install_lts.sh && sudo bash install.sh ed8484bec
 ```
-* 官方安装命令：(9.0.0-LTS预览版)[CentOS/OpenCloud/AlibabaCloud]
+* 官方安装命令：(9.0.0-LTS预览版)[CentOS/OpenCloud/AlibabaCloud安装脚本]
 ```
 yum install -y wget && wget -O install.sh https://download.bt.cn/install/install_lts.sh && bash install.sh ed8484bec
 ```
