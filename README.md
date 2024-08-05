@@ -2,6 +2,8 @@
 由于宝塔官方的历史版本下载链接已不在官网显示,有些站长又想用旧版本的宝塔，故搜集了所有官方历史版本<br/>
 本仓库所有版本的更新包通过 download.bt.cn 下载，绝对安全
 
+站点默认404＆502界面出现宝塔的ad（仅中国大陆机器显示，海外机器无影响，可自行修改网站目录内的404.html）
+
 BTPanel 9.0.0-LTS更新日志：[https://www.bt.cn/bbs/forum.php?mod=viewthread&tid=134609](https://www.bt.cn/bbs/forum.php?mod=viewthread&tid=134609)<br/>
 
 注：正式版和LTS版本**不可混用**！！！
