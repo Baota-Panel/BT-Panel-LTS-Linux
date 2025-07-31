@@ -5,7 +5,7 @@
 
 BTPanel 9.0.0-LTS更新日志：[https://www.bt.cn/bbs/forum.php?mod=viewthread&tid=134609](https://www.bt.cn/bbs/forum.php?mod=viewthread&tid=134609)
 
-BTPanel 10.0.0-LTS更新日志：宝塔论坛暂无，请到 [Releases](https://github.com/Baota-Panel/BT-Panel-LTS-Linux/releases) 界面查看
+BTPanel 10.0.0-LTS更新日志：宝塔论坛暂无，请到 [Releases](https://github.com/Baota-Panel/BT-Panel-LTS-Linux/releases) 页面查看
 
 注：正式版和LTS版本**不可混用**！！！
 
