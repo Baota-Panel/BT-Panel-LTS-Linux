@@ -46,24 +46,6 @@ yum install -y wget && wget -O install.sh https://download.bt.cn/install/install
 
 ## 一键安装脚本
 
-### V9.0-LTS
-* 官方安装命令：(9.0.0-LTS) [通用安装脚本]
-```
-url=https://download.bt.cn/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh ed8484bec
-```
-* 官方安装命令：(9.0.0-LTS) [CentOS/OpenCloudOS/AlibabaCloud]
-```
-url=https://download.bt.cn/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh ed8484bec
-```
-* 官方安装命令：(9.0.0-LTS) [Debian]
-```
-wget -O install.sh https://download.bt.cn/install/install_lts.sh && bash install.sh ed8484bec
-```
-* 官方安装命令：(9.0.0-LTS) [Ubuntu/Deepin]
-```
-wget -O install.sh https://download.bt.cn/install/install_lts.sh && sudo bash install.sh ed8484bec
-```
-
 ### V10.0-LTS
 * 官方安装命令：(10.0.2-LTS) [通用安装脚本]
 ```
@@ -80,4 +62,22 @@ wget -O install.sh https://download.bt.cn/install/installStable.sh && bash insta
 * 官方安装命令：(10.0.2-LTS) [Ubuntu/Deepin]
 ```
 wget -O install.sh https://download.bt.cn/install/installStable.sh && sudo bash install.sh ed250616lt
+```
+
+### V9.0-LTS
+* 官方安装命令：(9.0.0-LTS) [通用安装脚本]
+```
+url=https://download.bt.cn/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh ed8484bec
+```
+* 官方安装命令：(9.0.0-LTS) [CentOS/OpenCloudOS/AlibabaCloud]
+```
+url=https://download.bt.cn/install/install_lts.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_lts.sh $url;fi;bash install_lts.sh ed8484bec
+```
+* 官方安装命令：(9.0.0-LTS) [Debian]
+```
+wget -O install.sh https://download.bt.cn/install/install_lts.sh && bash install.sh ed8484bec
+```
+* 官方安装命令：(9.0.0-LTS) [Ubuntu/Deepin]
+```
+wget -O install.sh https://download.bt.cn/install/install_lts.sh && sudo bash install.sh ed8484bec
 ```
