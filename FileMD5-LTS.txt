@@ -1,4 +1,4 @@
 LinuxPanel-9.0.0-LTS.zip : 349e484847541dd79a3c4480061009d4
 LinuxPanelStable-10.0.0.zip : 059832d3ac5ccfd9711181e9e242a2fc
 LinuxPanelStable-10.0.1.zip : 029288c608fba1f6528572c7fc167668
-LinuxPanelStable-10.0.2.zip : 642d265b39c1aec14e7fb1de32ba4992
+LinuxPanelStable-10.0.2.zip : 652be7b6f0b2da06634a967f74dcf147
